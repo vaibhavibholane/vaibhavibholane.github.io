@@ -1,0 +1,17 @@
+title: Vaibhavi Bholane | The place where I express myself.
+email: vaibhavi.bholane@gmail.com
+description: Rants and random thoughts that come to my mind.
+baseurl: ""
+url: "http://vaibhavibholane.github.io"
+img: http://vaibhavibholane.github.io/static/images/profiles/vaibhavi.jpg
+keywords: blog
+
+permalink: /:categories/:title.html
+
+# Build settings
+exclude: [semantic, node_modules, static/semantic/src/, static/semantic/tasks, static/node_modules]
+gems:
+    - jekyll-sitemap
+plugins_dir: _plugins
+blog_types:
+    - blogs

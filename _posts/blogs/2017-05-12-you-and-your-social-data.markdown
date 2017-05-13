@@ -1,5 +1,5 @@
 ---
-title: You and your social data
+title: You and Your Social Data
 img: http://vaibhavibholane.github.io/static/images/you-and-your-social-data/you-and-your-social-data.jpg
 layout: post
 comments: true

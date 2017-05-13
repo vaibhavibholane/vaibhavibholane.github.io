@@ -5,8 +5,8 @@
     <description>Rants and random thoughts that come to my mind.</description>
     <link>http://vaibhavibholane.github.io/</link>
     <atom:link href="http://vaibhavibholane.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 May 2017 12:43:54 +0530</pubDate>
-    <lastBuildDate>Sat, 13 May 2017 12:43:54 +0530</lastBuildDate>
+    <pubDate>Sat, 13 May 2017 13:11:17 +0530</pubDate>
+    <lastBuildDate>Sat, 13 May 2017 13:11:17 +0530</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -51,7 +51,7 @@
 &lt;h2 id=&quot;can-the-data-be-misused&quot;&gt;Can the data be misused?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Yes! Of course!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;A very good article, written by Arpit, explains &lt;a href=&quot;http://arpitbhayani.me/blog/beware-of-which-indian-celebrity-do-you-look-like.html&quot;&gt;how facebook apps like “Which Indian Celebrity Do You Look Like” can misuse your data&lt;/a&gt;. I would explain it in a gist here:&lt;/p&gt;
+&lt;p&gt;A very well written article, written by &lt;a href=&quot;http://arpitbhayani.me&quot;&gt;Arpit&lt;/a&gt;, explains &lt;a href=&quot;http://arpitbhayani.me/blog/beware-of-which-indian-celebrity-do-you-look-like.html&quot;&gt;how facebook apps like “Which Indian Celebrity Do You Look Like” can misuse your data&lt;/a&gt;. I would explain it in a gist here:&lt;/p&gt;
 
 &lt;p&gt;Applications uses &lt;a href=&quot;https://en.wikipedia.org/wiki/OAuth&quot;&gt;OAuth authentication&lt;/a&gt; (Login via Facebook) and takes your consent to extract and access some of your data through existing social media. Some of the data requested has nothign to do with the app but still it asks you for it. And internet giant, since they have your consent, share it with them. Such application/websites may:&lt;/p&gt;
 &lt;ul&gt;

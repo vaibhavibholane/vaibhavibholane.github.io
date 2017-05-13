@@ -62,7 +62,7 @@ Banks, credit card companies, retail shops, marketing companies, e-commerce firm
 ## Can the data be misused?
 **Yes! Of course!**
 
-A very good article, written by Arpit, explains [how facebook apps like "Which Indian Celebrity Do You Look Like" can misuse your data](http://arpitbhayani.me/blog/beware-of-which-indian-celebrity-do-you-look-like.html). I would explain it in a gist here:
+A very well written article, written by [Arpit](http://arpitbhayani.me), explains [how facebook apps like "Which Indian Celebrity Do You Look Like" can misuse your data](http://arpitbhayani.me/blog/beware-of-which-indian-celebrity-do-you-look-like.html). I would explain it in a gist here:
 
 Applications uses [OAuth authentication](https://en.wikipedia.org/wiki/OAuth) (Login via Facebook) and takes your consent to extract and access some of your data through existing social media. Some of the data requested has nothign to do with the app but still it asks you for it. And internet giant, since they have your consent, share it with them. Such application/websites may:
  - Sell this data to some fraudulent entity which engages in sending spams or scams.

@@ -1,6 +1,6 @@
-ROOT=/home/arpit/workspace/vaibhavibholane.github.io/
+ROOT=/home/vaibhavi/workspace/vaibhavibholane.github.io/
 TMP_FOLDER=/tmp/vaibhavibholane.github.io/
-SITE_DIR=/home/arpit/workspace/vaibhavibholane.github.io/_site/
+SITE_DIR=/home/vaibhavi/workspace/vaibhavibholane.github.io/_site/
 
 if [ -d $TMP_FOLDER ]; then
     rm -rf $TMP_FOLDER
